@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.AddContainer {
+  width: 300px;
+  padding: 5px 0 5px 0;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
