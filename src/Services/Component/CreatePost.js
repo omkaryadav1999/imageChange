@@ -28,7 +28,7 @@ function CreatePost() {
   };
   return (
     <div className="mainContainer">
-      <h1>Add Post</h1>
+      <h1>omkar please Add Photos </h1>
       <form onSubmit={SubmitData}>
         <label>
           {" "}
